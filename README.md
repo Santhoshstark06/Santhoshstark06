@@ -18,7 +18,7 @@
 <p align="left">
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   <br/>
-💻💻💡 Basically an Engineer & Programmer.
+💻💻💡 I'm a Engineer & Programmer.
   🌱 I’m  Fresher graduated in Computer Science specialization in Ai & ML. 
 💬💻 My interests are in the field,which it makes me to use my analytical skills and deep neural network to use it in real life scenario. I have knowledge in every domain and love to work with it ,also interested in projects to colabrate. 
  📫 How to reach me: Discord ID - Mr DOOMSTER#5334
